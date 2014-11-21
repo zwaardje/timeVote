@@ -1,4 +1,8 @@
-timeVote
-========
+# jQuery timeVote
 
-time voting build with backbone and bootstrap
+timeVote is a jQuery plugin that 
+
+```js
+Auction.init();
+
+```
